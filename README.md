@@ -1,5 +1,5 @@
 ## Virus dissasembler
-I, Dr. Jebait declares this repo as my greatest creation! Trust me!
+I, Dr. Jebait declare this repo as my greatest creation! Trust me!
 
 ## Installation
 1. Download the repo
